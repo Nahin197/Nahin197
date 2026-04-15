@@ -20,16 +20,19 @@ I enjoy building scalable applications and continuously learning new tools and f
 ## 📫 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/md-khademul-islam-nahin-196200254/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45"/>
-</a>
-<a href="https://facebook.com/nahin197" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" width="45"/>
-</a>
-<a href="mailto:khademulislam.nahin05@gmail.com" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="45"/>
-</a>
+  <a href="https://www.linkedin.com/in/md-khademul-islam-nahin-196200254/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Md.%20Khademul%20Islam%20Nahin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://facebook.com/nahin197" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-nahin197-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  &nbsp;
+  <a href="mailto:khademulislam.nahin05@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-khademulislam.nahin05-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </p>
+
 
 ---
 

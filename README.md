@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Md.+Khadmul+Islam+Nahin;Software+Developer;Problem+Solver;Backend+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Md.+Khadmul+Islam+Nahin;Software+Developer;Problem+Solver" />
 </p>  <img src="https://assets-v2.lottiefiles.com/a/62a61dbe-47cf-11ee-875a-9fbb1192111f/Jh8Scwoy7n.gif" width="50" height="50" />
 
 ## 👨‍💻  I am Md. Khadmul Islam Nahin

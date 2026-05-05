@@ -6,6 +6,7 @@
 
 I am a passionate Software Developer with strong interests in problem solving, frontend development,backend development, and modern web technologies.  
 I enjoy building scalable applications and continuously learning new tools and frameworks.
+Now im exploring SQA to become a Jr. QA Automation Engineer.
 
 ---
 

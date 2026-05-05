@@ -91,7 +91,8 @@ Now im exploring SQA to become a Jr. QA Automation Engineer.
 - 🌐 Web Development  
 - 🧩 Problem Solving  
 - ⚙️ Backend Engineering
-- ML/AI 
+- ML/AI
+- QA Automation Engineering/SQA or QA Engineering
 
 ---
 

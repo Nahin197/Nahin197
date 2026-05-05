@@ -36,18 +36,15 @@ I enjoy building scalable applications and continuously learning new tools and f
 
 ---
 
-## ⚙️ Technologies I Know
-
 | Languages | Frameworks & Tools | Others |
 |----------|------------------|--------|
-| C, C++, Java, Python, JavaScript | Node.js, Laravel, PHP | Git, VS Code |
+| C, C++, Java, Python, JavaScript | Node.js, Laravel, PHP, Tailwind CSS | Git, VS Code |
 | HTML, CSS | MySQL | Linux |
 | JavaFX | Postman | Unit Testing |
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,php,nodejs,laravel,js,mysql,html,css,linux,git,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,php,nodejs,laravel,js,mysql,html,css,tailwind,linux,git,vscode,postman" />
 </p>
-
 ---
 
 ## 🏆 My Achievements

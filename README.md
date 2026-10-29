@@ -50,15 +50,22 @@ I'm building my career as a **Junior QA Automation Engineer**, focusing on **Man
 
 | QA & Testing | Machine Learning & Data | Web Development | Programming & Tools |
 |-------------|------------------------|-----------------|---------------------|
-| Manual Testing | Machine Learning, Deep Learning | HTML, CSS | C, C++, Java, Python, JavaScript |
-| API Testing | PyTorch, scikit-learn | Tailwind CSS | SQL (MySQL) |
+| Manual Testing | Machine Learning, Deep Learning | HTML, CSS, JavaScript (ES6+) | C, C++, Java, Python, JavaScript, TypeScript, PHP |
+| API Testing | PyTorch, scikit-learn | Tailwind CSS, DaisyUI, Flowbite | SQL (MySQL, MariaDB) |
 | Playwright | LightGBM, XGBoost, CatBoost, Optuna | Node.js, Express.js | Git, GitHub |
-| Postman & Newman | Hugging Face Transformers | PHP, Laravel | VS Code, Linux |
-| k6 Performance Testing | Computer Vision, NLP | REST APIs | Jupyter, Google Colab, Kaggle |
-| Unit Testing | NumPy, pandas, Matplotlib, Seaborn | | JavaFX |
+| Postman & Newman | Hugging Face Transformers | PHP, Laravel | VS Code, Linux, XAMPP |
+| k6 Performance Testing | Computer Vision, NLP | REST API Design, Flask | Composer, Maven |
+| Unit Testing | NumPy, pandas, Matplotlib, Seaborn | WebSockets (Ratchet), Firebase Auth | JavaFX, JDBC |
+| Jira Bug Tracking, Selenium | Jupyter, Google Colab, Kaggle | Chart.js, SweetAlert2, PHPMailer, FPDF | MVC, OOP, Agile/Scrum |
+| | | Web Security: Argon2id/bcrypt, 2FA (OTP), CSRF, XSS & SQL injection prevention, RBAC | |
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,python,java,cpp,c,html,css,tailwind,nodejs,express,php,laravel,mysql,pytorch,sklearn,pandas,numpy,git,linux,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c,html,css,tailwind,nodejs,express,php,laravel,flask,firebase,mysql,pytorch,sklearn,git,github,linux,vscode,postman,maven,jira" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
 </p>
 
 ---
@@ -73,14 +80,14 @@ I'm building my career as a **Junior QA Automation Engineer**, focusing on **Man
 
 # 🧪 QA Projects
 
-- [**OrangeHRM E2E Automation**](https://github.com/Nahin197/orangehrm-automation-testing) — Playwright, Page Object Model, 10-step employee lifecycle
-- [**k6 API Performance Testing Suite**](https://github.com/Nahin197/k6-performance-testing) — load, stress, spike, endurance and volume tests with Python analysis
-- [**EverShop E-Commerce API Automation**](https://github.com/Nahin197/demoEverShop-api-automation-testing) — Postman & Newman, chained requests, 13 assertions
-- [**EverShop Search Feature — Manual & API Testing**](https://github.com/Nahin197/Shoe-Selling-E-Commerce-Platform-Manual-API-Testing-Assessment) — test cases, bug reports, Postman collection
-- [**Mock Competitive Programming API Testing**](https://github.com/Nahin197/Mock-Competitive-Programming-API-Testing-by-Postman) — system testing with Postman
-- [**CartUp Automation Framework**](https://github.com/Nahin197/cartup-ecommerce-automation-testing) — Playwright Page Object Model
-- [**SauceDemo E2E Automation**](https://github.com/Nahin197/saucedemo-automation-) — Playwright, Allure reports
-- **Parking Slot Booking System** — Unit Testing & Test Documentation
+- [**OrangeHRM E2E Automation**](https://github.com/Nahin197/orangehrm-automation-testing) — Playwright Page Object Model framework (Login, Dashboard, PIM and Add Employee pages) automating a 10-step employee lifecycle across Admin and Employee roles: add an employee with login credentials, log in as that employee, verify the displayed name, log out. Includes a separate Login/Logout suite and a data utility that generates unique names, IDs and policy-compliant passwords on every run; runs on Chromium, Firefox and WebKit with HTML reports. `Playwright` `POM` `JavaScript`
+- [**k6 API Performance Testing Suite**](https://github.com/Nahin197/k6-performance-testing) — built an Express.js REST API (1,000 products, validated order creation) and tested it with k6: baseline, load, stress, spike, endurance (10 VUs for 10 minutes) and volume tests, using stages, thresholds (error rate below 1%, p(95) below 500 ms), named scenarios and custom metrics. The stress test at up to 50 VUs handled about 1.17 million requests (about 6,870 req/s) with 0% errors; Python scripts parse the raw k6 JSON and export per-minute p(95) to CSV. `k6` `Node.js` `Python`
+- [**EverShop E-Commerce API Automation**](https://github.com/Nahin197/demoEverShop-api-automation-testing) — automated a shopping API workflow (Search, View Cart, Add to Cart, Verify Cart, Delete Item, Bulk Cart Cleanup) as a Postman collection of 6 chained requests with 13 JavaScript assertions, run through Newman. Uses pre-request scripts to randomise keywords and quantities, collection variables to pass data between requests, cart-quantity arithmetic checks, empty-cart edge-case handling and a `pm.sendRequest()` cleanup loop; Newman HTML reports. `Postman` `Newman` `JavaScript`
+- [**EverShop Search Feature — Manual & API Testing**](https://github.com/Nahin197/Shoe-Selling-E-Commerce-Platform-Manual-API-Testing-Assessment) — wrote 10 prioritised requirement questions for a dynamic search feature, then structured manual test cases (name, brand, SKU and partial-keyword search, typos, special characters, empty input, sorting, filters, pagination, keyboard access, 375px mobile view). Executed positive, negative and boundary tests (77.27% pass rate) and reported 4 defects with severity, priority, steps and screenshots; also built a 9-request Postman collection (GET, POST, PATCH, DELETE) for search and cart. `Manual Testing` `Postman` `Bug Reports`
+- [**Mock Competitive Programming API Testing**](https://github.com/Nahin197/Mock-Competitive-Programming-API-Testing-by-Postman) — system testing of a Node.js/Express API (JWT auth, users, contests, problems, submissions) with intentionally seeded faults, using a 26-request Postman collection. Covered happy paths, error handling, permissions, time-based rules and data consistency; found inconsistent data types, an unauthenticated update endpoint, wrong status codes and non-deterministic leaderboard results, and delivered a formal report with test plan, test cases, defect reports and risk recommendations. `Postman` `JWT` `System Testing`
+- [**CartUp Automation Framework**](https://github.com/Nahin197/cartup-ecommerce-automation-testing) — Playwright Page Object Model framework (Login, Home, Search Results, Product and Cart pages) automating the full shopping journey from login to checkout, with URL, toast and navigation assertions structured with `test.step()`. Configured Chromium, Firefox and WebKit projects, failure screenshots, traces and CI retries. `Playwright` `POM` `Cross-Browser`
+- [**SauceDemo E2E Automation**](https://github.com/Nahin197/saucedemo-automation-) — Playwright POM framework with six page classes covering three journeys: locked-out user error validation, a three-item purchase from cart to order confirmation, and a Z-to-A sorted purchase with the performance-glitch user. Assertions check error messages, product names, subtotal, tax, total and the success message; Allure and Playwright HTML reports. `Playwright` `Allure` `POM`
+- **Parking Slot Booking System** — unit testing and test documentation for a parking slot booking application. `Unit Testing` `Test Documentation`
 
 ---
 
@@ -97,10 +104,12 @@ I'm building my career as a **Junior QA Automation Engineer**, focusing on **Man
 # 🌐 Web Development Projects
 
 - [**Personal Portfolio**](https://nahin197.vercel.app) — personal website hosted on Vercel
-
-<!-- Add your Laravel / PHP / Node.js projects here. Example format:
-- [**Project Name**](https://github.com/Nahin197/repo-name) — Laravel, MySQL, short description
--->
+- [**CholoSave — Group Savings Platform**](https://github.com/Nahin197/Cholosave--System-Alanysis-Design-Course-Project) — full-stack platform for group DPS savings, loans with member voting, withdrawals, investments, leaderboard, forum and real-time WebSocket chat; OTP-verified bKash/Rocket/Nagad payments, PDF reports and a Flask AI advisor (Groq LLaMA 3.3 70B). `PHP` `MySQL` `Tailwind CSS` `Flask` `WebSocket`
+- [**CholoSave Secure — Security-Hardened Edition**](https://github.com/Nahin197/CholoSave-Security-Implementaion-CS-Course-) — the savings platform hardened for a Computer Security course: Argon2id hashing, email 2FA with hashed OTPs, Cloudflare Turnstile CAPTCHA, rate limiting, CSRF/XSS/SQL injection protection, secure sessions and security audit logs. `PHP` `MySQL` `PHPMailer`
+- [**CrediFlow — Peer-to-Peer Lending & Crowdfunding**](https://github.com/Nahin197/Crediflow-Web-Programming-Course-Project) — borrowers post loan requests, lenders send proposals, accepted proposals become contracts with installment tracking; admin-run crowdfunding campaigns, digital wallet, ratings, notifications and Google sign-in via Firebase. `PHP` `MySQL` `Firebase`
+- [**UniVol — University Volunteer Management System**](https://github.com/Nahin197/Univol-DBMS-Project) — four role-based portals (Volunteer, Club, Authority, Admin) for event approval, registration, announcements, a social feed, points and badges, leaderboards and a complaint and ban system. `PHP` `MySQL` `Tailwind CSS` `DaisyUI`
+- [**CholoSave — Laravel Version**](https://github.com/Nahin197/Cholosave-SWE-Course-Project) — Laravel and MySQL version of the savings platform with a Tailwind CSS interface and a REST API layer; I worked on the frontend. `Laravel` `Tailwind CSS` `REST API`
+- [**Virtual Art Gallery — Art & NFT Marketplace**](https://github.com/Nahin197/Virtual-Art-Gallery-AOOP-Course-project) — JavaFX desktop app for buying, auctioning and trading paintings and NFTs with four user roles, a credit wallet, notifications and a multi-client TCP chat server; built around OOP design (abstract base controller, interfaces, polymorphism, MVC). `Java` `JavaFX` `MySQL` `JDBC`
 
 ---
 

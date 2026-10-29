@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=700&lines=Md.+Khademul+Islam+Nahin;Junior+QA+Automation+Engineer;Software+Quality+Assurance+(SQA);Playwright+%7C+Postman+%7C+API+Testing+%7C+k6" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=700&lines=Md.+Khademul+Islam+Nahin;Junior+QA+Automation+Engineer;Software+Quality+Assurance+(SQA);Playwright+%7C+Postman+%7C+API+Testing+%7C+k6;Machine+Learning+%7C+Web+Development" />
 </p>
 
 <p align="center">
@@ -8,9 +8,11 @@
 
 # 👋 Hi, I'm Md. Khademul Islam Nahin
 
-I'm a **Computer Science & Engineering graduate** from **United International University (UIU)** with a strong interest in **Software Quality Assurance (SQA)** and **QA Automation**.
+I'm a **Computer Science & Engineering graduate (Major: Data Science)** from **United International University (UIU)** with a strong interest in **Software Quality Assurance (SQA)** and **QA Automation**.
 
-I'm building my career as a **Junior QA Automation Engineer**, focusing on **Manual Testing, API Testing, UI Automation with Playwright, and Performance Testing with k6**. I enjoy finding bugs, improving software quality, and continuously learning modern testing tools and practices.
+I'm building my career as a **Junior QA Automation Engineer**, focusing on **Manual Testing, API Testing, UI Automation with Playwright, and Performance Testing with k6**. Alongside testing, I also work on **Machine Learning** and **Web Development**, which helps me understand how software is built as well as how it breaks. I enjoy finding bugs, improving software quality, and continuously learning modern tools and practices.
+
+🌐 **Portfolio:** [nahin197.vercel.app](https://nahin197.vercel.app)
 
 ---
 
@@ -33,6 +35,10 @@ I'm building my career as a **Junior QA Automation Engineer**, focusing on **Man
     <img src="https://img.shields.io/badge/Gmail-khademulislam.nahin05-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
+  <a href="https://nahin197.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-nahin197.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+
   <a href="https://facebook.com/nahin197" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-nahin197-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
@@ -42,16 +48,17 @@ I'm building my career as a **Junior QA Automation Engineer**, focusing on **Man
 
 # 🛠️ Skills
 
-| Programming | QA & Testing | Tools |
-|------------|-------------|-------|
-| C, C++, Java, Python, JavaScript | Manual Testing | Git |
-| HTML, CSS, PHP | API Testing | VS Code |
-| SQL (MySQL) | Playwright | Linux |
-| Node.js | Postman & Newman | k6 |
-| Laravel | Unit Testing | JavaFX |
+| QA & Testing | Machine Learning & Data | Web Development | Programming & Tools |
+|-------------|------------------------|-----------------|---------------------|
+| Manual Testing | Machine Learning, Deep Learning | HTML, CSS | C, C++, Java, Python, JavaScript |
+| API Testing | PyTorch, scikit-learn | Tailwind CSS | SQL (MySQL) |
+| Playwright | LightGBM, XGBoost, CatBoost, Optuna | Node.js, Express.js | Git, GitHub |
+| Postman & Newman | Hugging Face Transformers | PHP, Laravel | VS Code, Linux |
+| k6 Performance Testing | Computer Vision, NLP | REST APIs | Jupyter, Google Colab, Kaggle |
+| Unit Testing | NumPy, pandas, Matplotlib, Seaborn | | JavaFX |
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,python,java,cpp,c,html,css,nodejs,php,laravel,mysql,git,linux,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=js,python,java,cpp,c,html,css,tailwind,nodejs,express,php,laravel,mysql,pytorch,sklearn,pandas,numpy,git,linux,vscode,postman" />
 </p>
 
 ---
@@ -60,15 +67,40 @@ I'm building my career as a **Junior QA Automation Engineer**, focusing on **Man
 
 - 🥇 **Champion** — UIU CSE Project Show Fall 2024 *(System Analysis & Design)*
 - 🥈 **2nd Runner-Up** — UIU CSE Project Show Summer 2024 *(Advanced AOOP)*
+- 🎓 **Merit-Based Scholarships** — 50% (twice) and 25% (four times) at UIU
 
 ---
 
 # 🧪 QA Projects
 
-- **CartUp Automation Framework** — Playwright Page Object Model (POM)
-- **OrangeHRM Login Automation** — UI Test Automation
-- **Mock Competitive Programming API Testing** — Postman & Newman
+- [**OrangeHRM E2E Automation**](https://github.com/Nahin197/orangehrm-automation-testing) — Playwright, Page Object Model, 10-step employee lifecycle
+- [**k6 API Performance Testing Suite**](https://github.com/Nahin197/k6-performance-testing) — load, stress, spike, endurance and volume tests with Python analysis
+- [**EverShop E-Commerce API Automation**](https://github.com/Nahin197/demoEverShop-api-automation-testing) — Postman & Newman, chained requests, 13 assertions
+- [**EverShop Search Feature — Manual & API Testing**](https://github.com/Nahin197/Shoe-Selling-E-Commerce-Platform-Manual-API-Testing-Assessment) — test cases, bug reports, Postman collection
+- [**Mock Competitive Programming API Testing**](https://github.com/Nahin197/Mock-Competitive-Programming-API-Testing-by-Postman) — system testing with Postman
+- [**CartUp Automation Framework**](https://github.com/Nahin197/cartup-ecommerce-automation-testing) — Playwright Page Object Model
+- [**SauceDemo E2E Automation**](https://github.com/Nahin197/saucedemo-automation-) — Playwright, Allure reports
 - **Parking Slot Booking System** — Unit Testing & Test Documentation
+
+---
+
+# 🤖 Machine Learning Projects
+
+- [**Thesis: Cell Type Annotation in Spatial Proteomics**](https://github.com/Nahin197/MAPS-update) — stacking ensemble (MLP, LightGBM, XGBoost, CatBoost) on 143,346 cells reaching **90.24% weighted F1** (5-fold CV), beating the MAPS baseline; includes GNN experiments with control tests. `PyTorch` `LightGBM` `Optuna`
+- [**Small-Object Detection Benchmark (VisDrone)**](https://github.com/Nahin197/small-object-detection-visdrone-benchmark) — six lightweight detectors (YOLOv12n, D-FINE, GOLD-YOLO, DAMO-YOLO, NanoDet-Plus, RF-DETR) compared with and without SAHI sliced inference; IEEE-format paper. `PyTorch` `SAHI` `COCO`
+- [**Energy-Accuracy Trade-offs of Small Language Models**](https://github.com/Nahin197/A-Deep-Dive-into-the-Energy-Accuracy-Trade-offs-of-Small-Language-Models-Green-Computing) — 17 small LMs (270M to 7B) on IMDB, AG News and OLID, measuring accuracy, energy and CO₂ with CodeCarbon; IEEE-format paper. `Hugging Face` `CodeCarbon`
+- [**Bangla Dialect Normalization**](https://github.com/Nahin197/bangla-dialect-normalization-Machine-Learning) — fine-tuned BanglaT5, mBART-50, NLLB-200 and Small100 to convert five regional dialects into Standard Bangla; BanglaT5 scored best (average BLEU 56.04). `Transformers` `BLEU`
+- [**Medical Data Mining: Clustering & Dimensionality Reduction**](https://github.com/Nahin197/Medical-Data-Mining-Dimensionality-Reduction-Clustering-Analysis) — PCA, t-SNE and UMAP combined with K-Means, Hierarchical, DBSCAN and HDBSCAN on four medical datasets, scored by Silhouette, Davies-Bouldin and Calinski-Harabasz. `scikit-learn` `UMAP`
+
+---
+
+# 🌐 Web Development Projects
+
+- [**Personal Portfolio**](https://nahin197.vercel.app) — personal website hosted on Vercel
+
+<!-- Add your Laravel / PHP / Node.js projects here. Example format:
+- [**Project Name**](https://github.com/Nahin197/repo-name) — Laravel, MySQL, short description
+-->
 
 ---
 
@@ -91,12 +123,15 @@ I'm building my career as a **Junior QA Automation Engineer**, focusing on **Man
 
 # 🚀 Currently Learning
 
-- Performance Testing with **k6**
+- Advanced **Playwright** and CI with **GitHub Actions**
+- **Machine Learning** and applied data science
+- Full-stack **Web Development**
+
 ---
 
 # 🎯 Career Goal
 
-To become a **Junior QA Automation Engineer**, contributing to high-quality software through **manual testing, automation, API validation, and performance testing** while continuously improving my technical skills.
+To become a **Junior QA Automation Engineer**, contributing to high-quality software through **manual testing, automation, API validation, and performance testing**, while using my **Machine Learning** and **Web Development** background to understand the systems I test.
 
 ---
 
